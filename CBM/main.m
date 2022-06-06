@@ -2,7 +2,7 @@
 % Frangi filter and adaptive weighted spatial FCM" To be published in
 % Computers in biology and medicine, Elsevier.
 % Authors:S. Mahapatra, S. Agrawal, P.K. Mishro, R.B. Pachori
-% 
+% Please cite the paper on using
 % 
 % In this paper, we suggest a novel framework for retinal vessel segmentation using optimal improved
 % Frangi filter and adaptive weighted spatial FCM. The optimal improved Frangi-based multi-scale filter 
